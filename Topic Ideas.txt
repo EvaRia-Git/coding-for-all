@@ -11,5 +11,8 @@ Study Habits / Tricks
 Unity
 Windows Godmode
 Campus-related stuff
-Iterative Design cycles
+Iterative Desixgn cycles
 Build a PC
+VPN Tools (LogMeIn, etc.)
+OBS/Twitch
+Algorithms
